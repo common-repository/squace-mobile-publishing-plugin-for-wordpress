@@ -1,0 +1,32 @@
+#squace-dbcg-upload-button #squace_picture_preview,
+#squace-dbcg-download-links #dbcg_download_posts_picture_preview,
+#squace-dbcg-download-links #dbcg_download_pages_picture_preview {
+    margin-top: 6px !important;
+}
+
+#squace_genhtml, #squace_genhtml_copypaste{
+    margin: 0 !important;
+    margin-left: -5px !important;
+}
+
+.button_preview {
+    margin-top: 7px !important;
+}
+
+#squace_sortable_tabs li {
+    float: left !important;
+    display: block;
+    clear: both !important;
+    height:auto !important;
+}
+
+#squace_sortable_tabs li .info_block {
+    float: left;
+    display: block;
+    clear: both !important;
+    height:auto !important;
+}
+
+#squace_sortable_tabs li .handle {
+    z-index: 9999;
+}
